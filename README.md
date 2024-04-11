@@ -69,11 +69,3 @@ simple-login-system/
 ├── welcome.php
 ├── logout.php
 ```
-
-## Contributions
-
-Contributions to this project are welcome! If you have any suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
